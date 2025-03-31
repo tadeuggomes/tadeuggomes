@@ -1,4 +1,4 @@
-# Tadeu Gomes
+# Jorge Tadeu Gomes
 
 **`Desenvolvedor FullStack`**
 

@@ -4,6 +4,8 @@
 
 Atualmente, curso bacharelado em Sistemas de Informação na Cesar School e atuo como desenvolvedor Full Stack em projetos de pequeno e médio porte, utilizando habilidades em Python, HTML, CSS, JavaScript e C. Além disso, participo de projetos acadêmicos em posições que demandam comunicação eficaz e liderança.
 
+"[Meu Linkedin](https://www.linkedin.com/in/jorge-tadeu-filho/?originalSubdomain=br)"
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 

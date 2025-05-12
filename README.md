@@ -48,9 +48,6 @@ Atualmente, curso bacharelado em Sistemas de Informação na Cesar School e atuo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
 <br/>
 <br/>
 
